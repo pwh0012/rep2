@@ -6,5 +6,6 @@ public class world {
     @Test
     public void syso(){
         System.out.print("hello world");
+        System.out.print("hello dj");
     }
 }
